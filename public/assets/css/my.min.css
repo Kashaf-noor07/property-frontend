@@ -1,0 +1,16 @@
+.cards {
+    margin-top: 0px;
+    z-index: 1;
+    position: relative;
+   
+}
+.cardtwo{
+    width: 445px;
+    margin: 0px auto;
+}
+
+.foot {
+    position: absolute;
+    top: 68px;
+    left: 270px;
+}
